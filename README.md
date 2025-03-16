@@ -48,7 +48,7 @@ El proyecto **Gestión de Solicitudes** es un microservicio diseñado para gesti
 
 5. **Acceder a la documentación Swagger:**
 
-   - **URL:** [[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)](http://localhost:8080/api/doc/swagger-ui/index.html](http://localhost:8081/webjars/swagger-ui/index.html#/))
+   - **URL:** [(http://localhost:8080/api/doc/swagger-ui/index.html](http://localhost:8081/webjars/swagger-ui/index.html#/))]
 
 
 ---
